@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://u8-iwf.anonymous.gui-projeto.exp.direct",
+  "packagerNgrokUrl": "https://packager.u8-iwf.anonymous.gui-projeto.exp.direct",
+  "ngrokPid": 206625,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
